@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|c:\\users\\vasiliy\\source\\repos\\wpfapppraktika\\wpfapppraktika\\view\\windowemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|solutionrelative:wpfapppraktika\\view\\windowemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\wpfapppraktika\\viewmodel\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|solutionrelative:wpfapppraktika\\viewmodel\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\wpfapppraktika\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|solutionrelative:wpfapppraktika\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\wpfapppraktika\\viewmodel\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|solutionrelative:wpfapppraktika\\viewmodel\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\wpfapppraktika\\model\\persondpo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|solutionrelative:wpfapppraktika\\model\\persondpo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\View\\WindowEmployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|solutionrelative:WpfAppPraktika\\View\\WindowEmployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\wpfapppraktika\\view\\windownewemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|solutionrelative:wpfapppraktika\\view\\windownewemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\wpfapppraktika\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|solutionrelative:wpfapppraktika\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\wpfapppraktika\\view\\windowrole.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|solutionrelative:wpfapppraktika\\view\\windowrole.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\wpfapppraktika\\view\\windownewrole.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|solutionrelative:wpfapppraktika\\view\\windownewrole.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\wpfapppraktika\\view\\windowrole.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|solutionrelative:wpfapppraktika\\view\\windowrole.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\wpfapppraktika\\helper\\findperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|solutionrelative:wpfapppraktika\\helper\\findperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\wpfapppraktika\\helper\\findrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|solutionrelative:wpfapppraktika\\helper\\findrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\wpfapppraktika\\view\\windownewemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|solutionrelative:wpfapppraktika\\view\\windownewemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\wpfapppraktika\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|solutionrelative:wpfapppraktika\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\wpfapppraktika\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|solutionrelative:wpfapppraktika\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\wpfapppraktika\\view\\windownewrole.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|solutionrelative:wpfapppraktika\\view\\windownewrole.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\wpfapppraktika\\view\\windowrole.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{446FDCCE-1404-4BE3-A622-2BBA0A2CA9F9}|WpfAppPraktika\\WpfAppPraktika.csproj|solutionrelative:wpfapppraktika\\view\\windowrole.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowEmployee.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\View\\WindowEmployee.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppPraktika\\View\\WindowEmployee.xaml.cs",
+              "ToolTip": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\View\\WindowEmployee.xaml.cs",
+              "RelativeToolTip": "WpfAppPraktika\\View\\WindowEmployee.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwEUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:02:07.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonDPO.cs",
+              "DocumentMoniker": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\Model\\PersonDPO.cs",
+              "RelativeDocumentMoniker": "WpfAppPraktika\\Model\\PersonDPO.cs",
+              "ToolTip": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\Model\\PersonDPO.cs",
+              "RelativeToolTip": "WpfAppPraktika\\Model\\PersonDPO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:52:10.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WindowNewRole.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\View\\WindowNewRole.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppPraktika\\View\\WindowNewRole.xaml.cs",
+              "ToolTip": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\View\\WindowNewRole.xaml.cs",
+              "RelativeToolTip": "WpfAppPraktika\\View\\WindowNewRole.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:05:10.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WindowRole.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\View\\WindowRole.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppPraktika\\View\\WindowRole.xaml.cs",
+              "ToolTip": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\View\\WindowRole.xaml.cs",
+              "RelativeToolTip": "WpfAppPraktika\\View\\WindowRole.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADgvy8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:10:43.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WindowEmployee.xaml",
+              "DocumentMoniker": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\View\\WindowEmployee.xaml",
+              "RelativeDocumentMoniker": "WpfAppPraktika\\View\\WindowEmployee.xaml",
+              "ToolTip": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\View\\WindowEmployee.xaml",
+              "RelativeToolTip": "WpfAppPraktika\\View\\WindowEmployee.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-04T22:32:57.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "WpfAppPraktika\\Model\\Person.cs",
+              "ToolTip": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\Model\\Person.cs",
+              "RelativeToolTip": "WpfAppPraktika\\Model\\Person.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:24:49.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\ViewModel\\PersonViewModel.cs",
+              "RelativeDocumentMoniker": "WpfAppPraktika\\ViewModel\\PersonViewModel.cs",
+              "ToolTip": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\ViewModel\\PersonViewModel.cs",
+              "RelativeToolTip": "WpfAppPraktika\\ViewModel\\PersonViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:17:11.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\ViewModel\\RoleViewModel.cs",
+              "RelativeDocumentMoniker": "WpfAppPraktika\\ViewModel\\RoleViewModel.cs",
+              "ToolTip": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\ViewModel\\RoleViewModel.cs",
+              "RelativeToolTip": "WpfAppPraktika\\ViewModel\\RoleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:08:50.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppPraktika\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppPraktika\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:09:35.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WindowNewEmployee.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\View\\WindowNewEmployee.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppPraktika\\View\\WindowNewEmployee.xaml.cs",
+              "ToolTip": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\View\\WindowNewEmployee.xaml.cs",
+              "RelativeToolTip": "WpfAppPraktika\\View\\WindowNewEmployee.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:04:50.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WindowNewEmployee.xaml",
+              "DocumentMoniker": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\View\\WindowNewEmployee.xaml",
+              "RelativeDocumentMoniker": "WpfAppPraktika\\View\\WindowNewEmployee.xaml",
+              "ToolTip": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\View\\WindowNewEmployee.xaml",
+              "RelativeToolTip": "WpfAppPraktika\\View\\WindowNewEmployee.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T21:02:57.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WindowRole.xaml",
+              "DocumentMoniker": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\View\\WindowRole.xaml",
+              "RelativeDocumentMoniker": "WpfAppPraktika\\View\\WindowRole.xaml",
+              "ToolTip": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\View\\WindowRole.xaml",
+              "RelativeToolTip": "WpfAppPraktika\\View\\WindowRole.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T19:11:20.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FindRole.cs",
+              "DocumentMoniker": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\Helper\\FindRole.cs",
+              "RelativeDocumentMoniker": "WpfAppPraktika\\Helper\\FindRole.cs",
+              "ToolTip": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\Helper\\FindRole.cs",
+              "RelativeToolTip": "WpfAppPraktika\\Helper\\FindRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:16:32.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FindPerson.cs",
+              "DocumentMoniker": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\Helper\\FindPerson.cs",
+              "RelativeDocumentMoniker": "WpfAppPraktika\\Helper\\FindPerson.cs",
+              "ToolTip": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\Helper\\FindPerson.cs",
+              "RelativeToolTip": "WpfAppPraktika\\Helper\\FindPerson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:16:31.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\Model\\Role.cs",
+              "RelativeDocumentMoniker": "WpfAppPraktika\\Model\\Role.cs",
+              "ToolTip": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\Model\\Role.cs",
+              "RelativeToolTip": "WpfAppPraktika\\Model\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:36:25.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppPraktika\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\MainWindow.xaml",
+              "RelativeToolTip": "WpfAppPraktika\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T19:09:32.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WindowNewRole.xaml",
+              "DocumentMoniker": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\View\\WindowNewRole.xaml",
+              "RelativeDocumentMoniker": "WpfAppPraktika\\View\\WindowNewRole.xaml",
+              "ToolTip": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\View\\WindowNewRole.xaml",
+              "RelativeToolTip": "WpfAppPraktika\\View\\WindowNewRole.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T19:05:01.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WindowRole.xaml",
+              "DocumentMoniker": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\View\\WindowRole.xaml",
+              "RelativeDocumentMoniker": "WpfAppPraktika\\View\\WindowRole.xaml",
+              "ToolTip": "C:\\Users\\Vasiliy\\source\\repos\\WpfAppPraktika\\WpfAppPraktika\\View\\WindowRole.xaml",
+              "RelativeToolTip": "WpfAppPraktika\\View\\WindowRole.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T18:59:03.77Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
