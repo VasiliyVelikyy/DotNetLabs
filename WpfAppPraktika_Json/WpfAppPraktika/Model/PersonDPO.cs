@@ -131,6 +131,12 @@ namespace WpfAppPraktika.Model
 
         public static  string GetStringBirthday(string birthday)
         {
+            if (birthday.Contains("/")){
+                var end = birthday.IndexOf(" ");
+                birthday= birthday.Substring(0, end);
+                birthday = birthday.Replace("/", ".");
+            }
+            
             return birthday;
         }
 

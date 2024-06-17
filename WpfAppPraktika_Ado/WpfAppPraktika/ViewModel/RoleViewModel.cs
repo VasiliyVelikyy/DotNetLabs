@@ -72,8 +72,8 @@ namespace WpfAppPraktika.ViewModel
         {
             using (var context = new CompanyEntities())
             {
-                var query = from role in context.Roles
-                            orderby role
+                var query = from roles in context.Roles
+                           orderby roles
                             select role;
                 if (query.Count() != 0)
                 {

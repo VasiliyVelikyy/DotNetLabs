@@ -22,7 +22,7 @@
                         <GridViewColumn Header="Фамилия" DisplayMemberBinding="{Binding LastName}" />
                         <GridViewColumn Header="Имя" DisplayMemberBinding="{Binding FirstName}" />
                         <GridViewColumn Header="Должность" DisplayMemberBinding="{Binding RoleName}" />
-                        <GridViewColumn Header="Дата рождения" DisplayMemberBinding="{Binding Birthday, StringFormat={}{0:dd\.}{0:MM\.}{0:yyyy}}" />
+                        <GridViewColumn Header="Дата рождения" DisplayMemberBinding="{Binding Birthday}" />
                     </GridView.Columns>
                 </GridView>
             </ListView.View>

@@ -10,6 +10,9 @@ using System.Windows;
 using WpfAppPraktika.Helper;
 using WpfAppPraktika.Model;
 using WpfAppPraktika.View;
+using Hangfire.Annotations;
+using System.Data;
+using System.Windows.Controls;
 
 namespace WpfAppPraktika.ViewModel
 {
@@ -37,6 +40,8 @@ namespace WpfAppPraktika.ViewModel
                 OnPropertyChanged("SelectedPersonDpo");
             }
         }
+
+    
 
         public PersonViewModel()
         {
@@ -124,7 +129,8 @@ namespace WpfAppPraktika.ViewModel
                     PersonDPO per = new PersonDPO
                     {
                         Id = maxIdPerson,
-                        Birthday = DateTime.Now.ToString()       
+                      //  Birthday = DateTime.Now.ToString("dd.mmmmm.yyyy")
+                        Birthday = DateTime.Now.ToString()
                     };
                     wnPerson.DataContext = per;
 
@@ -214,7 +220,7 @@ namespace WpfAppPraktika.ViewModel
                         else
                         {
                             Message = "Необходимо выбрать должность сотрудника.";
-                        }
+                        }                  
                     }
                 }, (obj) => SelectedPersonDpo != null && ListPersonDpo.Count > 0));
 
@@ -234,6 +240,9 @@ namespace WpfAppPraktika.ViewModel
                 return deletePerson ??
                 (deletePerson = new RelayCommand(obj =>
                 {
+                   
+                        selectedPersonDpo = ListPersonDpo.Last();
+                    
                     PersonDPO person = SelectedPersonDpo;
                     MessageBoxResult result = MessageBox.Show("Удалить данные по сотруднику: \n" + person.LastName + " " + person.FirstName,
  "Предупреждение", MessageBoxButton.OKCancel, MessageBoxImage.Warning);
@@ -257,6 +266,8 @@ namespace WpfAppPraktika.ViewModel
                         {
                             Error = "Ошибка удаления данных\n" + e.Message;
                         }
+                       
+                        
                     }
                 }, (obj) => SelectedPersonDpo != null && ListPersonDpo.Count > 0));
             }
@@ -280,10 +291,11 @@ namespace WpfAppPraktika.ViewModel
         }
 
         public event PropertyChangedEventHandler PropertyChanged;
-        //[NotifyPropertyChangedInvocator]
+        [NotifyPropertyChangedInvocator]
         protected virtual void OnPropertyChanged([CallerMemberName]
 string propertyName = "")
         {
+            
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
     }
