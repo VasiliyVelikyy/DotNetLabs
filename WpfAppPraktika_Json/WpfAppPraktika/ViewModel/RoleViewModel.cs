@@ -3,6 +3,7 @@ using System;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.IO;
+using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Windows;
 using WpfAppPraktika.Helper;
@@ -14,7 +15,7 @@ namespace WpfAppPraktika.ViewModel
     public class RoleViewModel : INotifyPropertyChanged
     {
 
-       readonly string path = @"C:\Users\Vasiliy\source\repos\WpfAppPraktika_Json\WpfAppPraktika\DataModels\RoleData.json";
+       readonly string path = @"C:\Users\Vasiliy\source\repos\Labs\WpfAppPraktika_Json\WpfAppPraktika\DataModels\RoleData.json";
 
         string _jsonRoles = String.Empty;
         public string Error { get; set; }
@@ -131,7 +132,7 @@ namespace WpfAppPraktika.ViewModel
                         SaveChanges(ListRole);
 
                     }
-                }, (obj) => SelectedRole != null && ListRole.Count > 0));
+                }, (obj) => ListRole.Count > 0)); //SelectedRole != null && ListRole.Count > 0)
             }
         }
 
@@ -143,6 +144,7 @@ namespace WpfAppPraktika.ViewModel
                 return deleteRole ??
                 (deleteRole = new RelayCommand(obj =>
                 {
+                    selectedRole = ListRole.Last();
                     Role role = SelectedRole;
                     MessageBoxResult result = MessageBox.Show("Удалить данные по должности: " +
                 role.NameRole, "Предупреждение", MessageBoxButton.OKCancel,
@@ -152,7 +154,7 @@ namespace WpfAppPraktika.ViewModel
                         ListRole.Remove(role);
                         SaveChanges(ListRole);
                     }
-                }, (obj) => SelectedRole != null && ListRole.Count > 0));
+                }, (obj) =>  ListRole.Count > 0)); //SelectedRole != null &&
             }
         }
 

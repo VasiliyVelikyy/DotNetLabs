@@ -20,7 +20,7 @@ namespace WpfAppPraktika.ViewModel
 
     public class PersonViewModel : INotifyPropertyChanged
     {
-        readonly string path = @"C:\Users\Vasiliy\source\repos\WpfAppPraktika_Json\WpfAppPraktika\DataModels\PersonData.json";
+        readonly string path = @"C:\Users\Vasiliy\source\repos\Labs\WpfAppPraktika_Json\WpfAppPraktika\DataModels\PersonData.json";
       
         string _jsonPersons = String.Empty;
 
@@ -160,6 +160,10 @@ namespace WpfAppPraktika.ViewModel
                                e.Message;
                             }
                         }
+                        else {
+                            MessageBoxResult result = MessageBox.Show("Не выбрана роль: \n" ,
+"Предупреждение", MessageBoxButton.OK, MessageBoxImage.Warning);
+                        }
                     }
                     SelectedPersonDpo = per;
                 },
@@ -222,7 +226,7 @@ namespace WpfAppPraktika.ViewModel
                             Message = "Необходимо выбрать должность сотрудника.";
                         }                  
                     }
-                }, (obj) => SelectedPersonDpo != null && ListPersonDpo.Count > 0));
+                }, (obj) =>  ListPersonDpo.Count > 0)); //SelectedPersonDpo != null && ListPersonDpo.Count > 0)
 
             }
         }
@@ -266,10 +270,9 @@ namespace WpfAppPraktika.ViewModel
                         {
                             Error = "Ошибка удаления данных\n" + e.Message;
                         }
-                       
-                        
+                  
                     }
-                }, (obj) => SelectedPersonDpo != null && ListPersonDpo.Count > 0));
+                }, (obj) =>  ListPersonDpo.Count > 0)); //SelectedPersonDpo != null && ListPersonDpo.Count > 0)
             }
         }
         #endregion

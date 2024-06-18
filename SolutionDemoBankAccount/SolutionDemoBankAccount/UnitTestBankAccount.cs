@@ -26,7 +26,7 @@ namespace SolutionDemoBankAccount
         public void TestCredit()
         {
             string customer = "Иванов Иван";
-            double balance = 150.0;
+            double balance = -150.0;
             Account account = new Account(customer, balance);
             double delta = 0.01;
             double amount = 12.52;
